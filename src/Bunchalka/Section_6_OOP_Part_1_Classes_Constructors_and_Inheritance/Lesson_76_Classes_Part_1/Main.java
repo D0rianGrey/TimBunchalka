@@ -1,4 +1,4 @@
-package Section_6_OOP_Part_1_Classes_Constructors_and_Inheritance.Lesson_76_Classes_Part_1;
+package Bunchalka.Section_6_OOP_Part_1_Classes_Constructors_and_Inheritance.Lesson_76_Classes_Part_1;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package Section_6_OOP_Part_1_Classes_Constructors_and_Inheritance.Lesson_77_Classes_Part_2;
+package Bunchalka.Section_6_OOP_Part_1_Classes_Constructors_and_Inheritance.Lesson_77_Classes_Part_2;
 
 /**
  * Created by dev on 8/3/15.
